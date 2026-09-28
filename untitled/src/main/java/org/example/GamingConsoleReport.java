@@ -1,6 +1,6 @@
-package org.example;
 
-public class Main {
+
+public class GamingConsoleReport {
     public static void main(String[] args) {
         // Array declarations
         String[] cities = {"CAPE TOWN", "PORT ELIZABETH", "PRETORIA"};
