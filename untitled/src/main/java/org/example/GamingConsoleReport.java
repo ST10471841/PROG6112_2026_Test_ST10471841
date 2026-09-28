@@ -14,7 +14,8 @@ public class GamingConsoleReport {
         // Main Report
         System.out.println("GAMING CONSOLE REPORT");
         System.out.println("--------------------------------------------------");
-        System.out.printf("%-16s%-13s%-13s%-13s%n", "", consoles[0], consoles[1], consoles[2]);
+        System.out.println("                PS5          XBOX         SWITCH");
+
 
         for (int i = 0; i < sales.length; i++) {
             System.out.printf("%-16s", cities[i]);
